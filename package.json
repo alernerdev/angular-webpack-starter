@@ -1,0 +1,17 @@
+{
+  "name": "angular-webpack-starter",
+  "version": "1.0.0",
+  "description": "Demonstrates how to bundle angular code into multiple bundles",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "bundle": "webpack"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "angular": "^1.6.7",
+    "webpack": "^3.10.0"
+  }
+}
